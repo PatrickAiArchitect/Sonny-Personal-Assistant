@@ -508,7 +508,7 @@ installer/
 ### 1. Clone
 
 ```bash
-git clone https://github.com/ahmed19maher9/Sonny-Personal-Assistant.git
+git clone https://github.com/PatrickAiArchitect/Sonny-Personal-Assistant.git
 cd Sonny-Personal-Assistant
 ```
 
@@ -808,6 +808,6 @@ See the repository license files for the applicable license terms for Sonny and 
 
 **Sonny is an experiment in what a local AI assistant can actually do when it is given access to your computer.**
 
-**[⭐ Star the repository](https://github.com/ahmed19maher9/Sonny-Personal-Assistant)**
+**[⭐ Star the repository](https://github.com/PatrickAiArchitect/Sonny-Personal-Assistant)**
 
 </p>
